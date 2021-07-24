@@ -1,0 +1,7 @@
+name=Hydrocraft Build 41 Beta
+poster=poster.png
+id=Hydrocraft
+description=Adds a ton of items and recipes.
+tiledef=hcFarming 591
+pack=hcFarming
+pack=hcBuilding
