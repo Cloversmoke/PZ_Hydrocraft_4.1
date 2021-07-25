@@ -1,6 +1,6 @@
 Hydrocraft Mod for Project Zomboid
 
-Build 41 Beta
+Build 41.51 Beta
 
 !! This build is still considered incomplete/unstable. There "should" not be game breaking updates but heavy changes to Loot Spawn or the general frequency of updates, it could still happen that your game might break or needs to be restarted. !!
 
